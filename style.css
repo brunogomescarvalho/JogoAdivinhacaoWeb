@@ -1,0 +1,50 @@
+.input {
+    padding-bottom: 10px;
+}
+
+body {
+    margin: 0%;
+    background-color: rgb(54, 67, 109);
+    display: grid;
+    min-height: 75vh;
+    place-items: center;
+    margin-right: 0;
+}
+
+.titulo
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+
+#textMensagem {
+    width: 100%;
+    font-size: 20px;
+}
+
+#valorInformado {
+    width: 15%;
+    font-size: 25px;
+}
+
+.output {
+    width: 100%;
+    font-size: 20px;
+}
+
+#botaoRecomecar {
+    font-size: 25px;
+    margin-top: 10%;
+    color: rgb(35, 35, 56);
+    background-color: rgb(208, 181, 128);
+    border-radius: 5px;
+}
+
+#botaoJogar {
+    font-size: 25px;
+    margin-top: 10%;
+    color: rgb(35, 35, 56);
+    background-color: rgb(128, 208, 128);
+    border-radius: 5px;
+}
